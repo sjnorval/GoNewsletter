@@ -1,7 +1,7 @@
 package main
 
 import (
-	"github.com/sjnorval/fullstack/api"
+	"github.com/sjnorval/newsletter/api"
 )
 
 func main() {

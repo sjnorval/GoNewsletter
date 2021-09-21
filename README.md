@@ -1,4 +1,6 @@
 # GoNewsletter
+### Notes
+I did not know how to create a RESTFul api in Go and found within the primary documentation a tutorial to use GIN (withou it the task would have taken much longer). 
 ### TodoList
 1. Create Project (Done)
     * - [x] [Server](https://github.com/sjnorval/GoNewsletter/blob/6dfc4815c2d15a9fd9d84e750fd0759134b188e9/api/server.go)
